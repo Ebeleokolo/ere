@@ -42,7 +42,7 @@ function App() {
 
   return (
     <div className="min-h-screen bg-gray-900 text-white flex flex-col items-center p-8">
-      <h1 className="text-3xl font-bold mb-6">Task Manager DApp</h1>
+      <h1 className="text-3xl font-bold mb-6">Lynda Task2 DApp</h1>
       <button
         onClick={connectWallet}
         className="bg-blue-600 px-4 py-2 rounded-lg mb-4"
